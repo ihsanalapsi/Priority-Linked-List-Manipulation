@@ -7,7 +7,7 @@ Linked List Printing: The linked list is printed in an organized manner, present
 Getting Started
 Follow the instructions below to get started with using and exploring this project.
 
-# Prerequisites
+## Prerequisites
 A C++ compiler (for fs.cpp) or a C compiler (for sc.cpp) is required to compile and run the code.
 Basic understanding of linked lists and programming concepts is beneficial.
 Usage
@@ -17,8 +17,8 @@ Follow the on-screen instructions to interact with the linked list and perform n
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Acknowledgments
+## Acknowledgments
 Special thanks to anyone whose code, libraries, or tutorials were used in this project.
